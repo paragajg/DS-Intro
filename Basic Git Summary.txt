@@ -1,0 +1,19 @@
+Github
+
+## To clone Remote repository
+git clone https://github.com/paragajg/DS-Intro.git
+
+## Got to local folder where the remote repository is cloned
+## Everyday prior to the session
+git pull
+
+## Pushing your files
+git status # gives information if files are added or modified
+git add * - add every new file/files to remote repository
+git add <file1> <file2>
+git commit -m "Add a message"
+git push
+
+## Create your own repository
+README file formatting tips - 
+https://help.github.com/articles/basic-writing-and-formatting-syntax/
